@@ -9,6 +9,10 @@ public class A
 	{
 		System.out.println("sub--A");
 	}
+	public void mul()
+	{
+		System.out.println("mul--A");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("praju");
